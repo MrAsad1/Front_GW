@@ -1,0 +1,10 @@
+#footer{
+    position: relative; top: 300px;
+}
+
+#carouselExampleIndicators{
+    border-radius:50px;
+    overflow: hidden;
+    margin-right: 50px;
+    position: relative; top: 50px;
+}
